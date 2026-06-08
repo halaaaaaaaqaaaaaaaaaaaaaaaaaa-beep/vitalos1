@@ -1,0 +1,5 @@
+-keep class com.vitalos.app.** { *; }
+-keep class androidx.health.connect.** { *; }
+-keepattributes *Annotation*
+-keepattributes Signature
+-dontwarn kotlin.**

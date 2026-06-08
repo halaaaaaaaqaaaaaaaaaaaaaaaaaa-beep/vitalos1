@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VitalOS</string>
+    <string name="health_connect_not_available">Health Connect is not installed on this device.</string>
+    <string name="health_connect_permissions_required">VitalOS needs permission to read your health data.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="install_health_connect">Install Health Connect</string>
+    <string name="today">Today</string>
+    <string name="recovery">Recovery</string>
+    <string name="strain">Strain</string>
+    <string name="sleep">Sleep</string>
+    <string name="metrics">Metrics</string>
+    <string name="activity">Activity</string>
+    <string name="trends">Trends</string>
+</resources>
